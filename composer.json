@@ -1,5 +1,5 @@
 {
-    "name": "piggly/php-pix",
+    "name": "Climba-Commerce/php-pix",
     "description": "Uma biblioteca para preparar e gerar o código Pix do Banco Central do Brasil.",
     "keywords": [
         "piggly",
@@ -19,7 +19,7 @@
     "require": {
         "php": "^7.2",
         "ext-gd": "*",
-        "chillerlan/php-qrcode": "^3.3"
+        "chillerlan/php-qrcode": "^3.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.4"
